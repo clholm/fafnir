@@ -1,2 +1,2 @@
 # fafnir
-greedtone-overdrive-style pedal without a second stomp switch
+CD4049UBE overdrive (similar to the Greedtone or Red LLama overdrives)
